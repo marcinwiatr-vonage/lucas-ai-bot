@@ -1,0 +1,14 @@
+# Ignore SSH keys and sensitive files
+vonageToken
+vonageToken.pub
+*.pem
+*.key
+*.crt
+*.pfx
+*.env
+# Node and Python typical ignores
+node_modules/
+__pycache__/
+.env
+.DS_Store
+Thumbs.db
