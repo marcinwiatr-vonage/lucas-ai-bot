@@ -1,6 +1,4 @@
 # Ignore SSH keys and sensitive files
-vonageToken
-vonageToken.pub
 *.pem
 *.key
 *.crt
